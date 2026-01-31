@@ -337,7 +337,7 @@ img {
 .hero {
     height: 100vh;
     min-height: 600px;
-    background-image: url('hero.jpg');
+    background-image: url('https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=2053&auto=format&fit=crop');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -557,7 +557,7 @@ img {
 
 /* --- Banner --- */
 .banner-section {
-    background-image: url('banner.png');
+    background-image: url('https://images.unsplash.com/photo-1490818387583-1baba5e638af?q=80&w=1932&auto=format&fit=crop');
     background-size: cover;
     background-attachment: fixed;
     padding: 6rem 0;
